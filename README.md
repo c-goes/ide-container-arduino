@@ -1,6 +1,6 @@
 # ide-container-arduino
 
-A Container image for Arduino IDE 2.0.
+A Container image for Arduino IDE 2.0.0. Installs the ESP32 and ESP8266 boards while building the container into the mounted directory structure.
 
 # Usage
 
